@@ -11,3 +11,14 @@ ___
 * **Utilitários:** Git e GitHub
 
 ___
+
+## Estrutura do Repositório
+
+Aqui estão os principais módulos e projetos desenvolvidos:
+
+*
+*
+*
+*
+
+___
